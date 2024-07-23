@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: live chat
+        label: learn more
         altText: ''
         url: /
         showIcon: false
@@ -52,7 +52,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: learn more
+        label: live chat
         altText: ''
         url: /
         showIcon: false

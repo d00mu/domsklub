@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: live chat
         altText: ''
         url: /
         showIcon: false

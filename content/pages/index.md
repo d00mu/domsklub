@@ -52,7 +52,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: learn more
         altText: ''
         url: /
         showIcon: false

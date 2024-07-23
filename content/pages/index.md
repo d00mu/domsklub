@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Welcome to DOMSKLUB
     subtitle: have fun.
     styles:

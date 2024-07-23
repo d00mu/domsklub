@@ -55,7 +55,7 @@ sections:
         label: Learn more
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
